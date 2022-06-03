@@ -2,7 +2,7 @@
 Files for my Hackintosh Laptop
 Feel free to use this to cross check your own hackintosh, but by no means is this perfect.
 
-##What does work:##
+## What does work:
   -Wifi
   -Graphics
   -Keyboard
@@ -12,6 +12,6 @@ Feel free to use this to cross check your own hackintosh, but by no means is thi
   -Bluetooth 
   -Camera
 
-##Doesn't work (yet):##
+## Doesn't work (yet):
   -Audio
   -HDMI
