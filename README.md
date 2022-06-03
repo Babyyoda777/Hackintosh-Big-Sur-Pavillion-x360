@@ -7,10 +7,11 @@ What does work:
   Graphics
   Keyboard
   iServices
+	Trackpad 
+  Brightness keys
+  Bluetooth 
+	Camera
 
 Doesn't work (yet):
-  Camera
   Audio
-  Trackpad (a big one)
-  Brightness keys
-  Bluetooth (traded for airdrop so doesn't matter)
+	HDMI
