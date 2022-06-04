@@ -28,12 +28,3 @@ Feel free to use this to cross check your own hackintosh, but by no means is thi
   * HDMI
 
 
-<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,31,3</string>
-				<key>device_type</key>
-				<string>Multimedia audio controller</string>
-				<key>model</key>
-				<string>Ice Lake-LP Smart Sound Technology Audio Controller</string>
-			</dict>
