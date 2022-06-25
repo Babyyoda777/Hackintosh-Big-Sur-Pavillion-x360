@@ -22,9 +22,9 @@ Feel free to use this to cross check your own hackintosh, but by no means is thi
   * Brightness keys
   * Bluetooth 
   * Camera
+  * Audio (VoodooHDA)
 
 ## Doesn't work (yet):
-  * Audio
   * HDMI
 
 
